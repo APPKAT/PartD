@@ -5,6 +5,7 @@ public class GitHub {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hi, my name is Katharina Vogl.");
+		System.out.println("My favourite colour is blue.");
 	}
 
 }
